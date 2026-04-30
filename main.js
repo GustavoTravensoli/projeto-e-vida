@@ -1,2 +1,8 @@
 const botoes = document.querySelectorAll(".botao");
-console.log(botoes);
+
+for(lot i-get;i <botoes.length;i++){
+    botoes[li].onclick = function(){
+botoes[1].classList.add("ativo");
+}
+console.log();
+}
